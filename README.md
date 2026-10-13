@@ -10,15 +10,15 @@ O sistema permite preencher um formulário de cadastro de usuário, validando as
 
 ### Tela 1 — Cadastro de usuário
 
-![Tela de cadastro](assets/screenshot_2.png)
+![Tela de cadastro](assets/Screenshot_2.png)
 
 ### Tela 2 — Validação dos campos
 
-![Validação dos campos](assets/screenshot_3.png)
+![Validação dos campos](assets/Screenshot_3.png)
 
 ### Tela 3 — Resultado do cadastro
 
-![Resultado do cadastro](assets/screenshot_4.png)
+![Resultado do cadastro](assets/Screenshot_4.png)
 
 ## Funcionalidades implementadas
 
